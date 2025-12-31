@@ -31,6 +31,7 @@ Initial release date - April 2, 2020
 >
 > **Initial release date:** April 2, 2020  
 > **Migration date:** December 27, 2025  
+> **Last review date:** December 31, 2025
 
 ## 💡 Deployment
 
@@ -106,4 +107,4 @@ If you want to contact me, leave a message via email.
 ## 📜 License
 
 This project is licensed under the MIT License.  
-See the license file for more details [LICENSE.md](./LICENSE)
+See the license file for more details [LICENSE](./LICENSE)
